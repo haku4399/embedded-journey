@@ -1,0 +1,5 @@
+   *.o  *.ko  *.mod*  *.cmd  .tmp_versions/
+   *.img  *.bin  *.dtb
+   build/  out/
+   .vscode/  *.swp  *~
+eof
